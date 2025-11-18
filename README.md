@@ -1,4 +1,14 @@
 # ⚔️ LeetHost — LeetCode Discord Bot
+<p align="center">
+	<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-17+-orange.svg" alt="Java Version" /></a>
+	<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg" alt="Spring Boot" /></a>
+	<a href="https://github.com/Discord4J/Discord4J"><img src="https://img.shields.io/badge/Discord4J-Library-blue.svg" alt="Discord4J" /></a>
+	<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-Database-blue.svg" alt="MySQL" /></a>
+	<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-API-orange.svg" alt="LeetCode API" /></a>
+	<a href="https://github.com/SSmagus/Leetcode-Discord-Bot/commits/main"><img src="https://img.shields.io/github/last-commit/SSmagus/Leetcode-Discord-Bot.svg?logo=github&logoColor=ffffff" alt="Last Commit" /></a>
+	<a href="https://github.com/SSmagus/Leetcode-Discord-Bot/graphs/contributors"><img src="https://img.shields.io/github/contributors/SSmagus/Leetcode-Discord-Bot.svg?color=00c7be&logo=github&logoColor=fff" alt="Contributors" /></a>
+</p>
+
 
 LeetHost is a Discord bot that brings competitive coding, daily LeetCode tracking, and 1v1 duels directly into your Discord server.
 
